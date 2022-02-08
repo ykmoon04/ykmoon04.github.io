@@ -69,6 +69,9 @@
       height: 20px;
     }
   }
+
+  padding: 0px 13px 0px 13px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
 .sidebar__right {
@@ -124,6 +127,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
+
   width: 36px;
   height: 36px;
 
@@ -139,7 +143,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      /* border: 1px solid $border-color; */
     }
   }
 }
@@ -216,7 +220,7 @@
 
     &:before {
       @supports (pointer-events: none) {
-        content: '';
+        content: "";
         position: fixed;
         top: 0;
         left: 0;
@@ -350,4 +354,3 @@
     margin-right: initial;
   }
 }
-
