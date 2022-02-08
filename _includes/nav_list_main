@@ -1,3 +1,5 @@
+<!-- 출처: https://ansohxxn.github.io/blog/category/ -->
+
 {% assign sum = site.posts | size %}
 
 <nav class="nav__list">
