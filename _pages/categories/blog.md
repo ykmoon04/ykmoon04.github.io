@@ -1,6 +1,6 @@
 ---
 title: "블로그 공사중"
-layout: categories
+layout: custom-categories
 permalink: /categories/blog
 author_profile: true
 sidebar_main: true

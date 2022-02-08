@@ -1,6 +1,6 @@
 ---
 title: "C++ STL"
-layout: categories
+layout: custom-categories
 permalink: /categories/cpp/stl
 author_profile: true
 sidebar_main: true
