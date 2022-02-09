@@ -35,7 +35,7 @@ include breadcrumbs.html %} {% endunless %} {% endif %}
       <header>
         {% if page.title %}
         <h1 id="page-title" class="page__title p-name" itemprop="headline">
-          <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url"
+          <a href="{{ page.url | relative_url }}" class="u-url" itemprop="url"
             >{{ page.title | markdownify | remove: "
             <p>" | remove: "</p>
             " }}</a
