@@ -22,21 +22,6 @@ categories:
     children:
       - title: 'HaruDiary'
         url: /categories/haru-diary/
-      - title: 'Categories22'
+      - title: '임시'
         url: /categories/categories2/
-      - title: 'Categories3'
-        url: /categories/categories3/
-      - title: 'Categories4'
-        url: /categories/categories4/
-
-  - title: 'Title2'
-    children:
-      - title: 'Categories5'
-        url: /categories/categories5/
-      - title: 'Categories6'
-        url: /categories/categories6/
-
-  - title: 'Title3'
-    children:
-      - title: 'Categories7'
-        url: /categories/categories7/
+  - title: 'etc'
