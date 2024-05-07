@@ -20,7 +20,7 @@ main:
 categories:
   - title: '일지'
     children:
-      - title: 'HaryDiary(JP)'
+      - title: '임시'
         url: /categories/haru-diary/
       - title: 'Categories2'
         url: /categories/categories2/
