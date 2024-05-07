@@ -18,10 +18,10 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: 'Title1'
+  - title: '일지'
     children:
-      - title: 'Categories1'
-        url: /categories/categories1/
+      - title: 'HaryDiary(JP)'
+        url: /categories/haru-diary/
       - title: 'Categories2'
         url: /categories/categories2/
       - title: 'Categories3'

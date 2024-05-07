@@ -1,9 +1,9 @@
 ---
-title: '11111'
+title: 'HaruDiary(JP)'
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/haru-diary/
 author_profile: true
-taxonomy: Categories1
+taxonomy: HaruDiary
 sidebar:
   nav: 'categories'
 ---
