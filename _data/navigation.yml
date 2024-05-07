@@ -20,9 +20,9 @@ main:
 categories:
   - title: '일지'
     children:
-      - title: '임시'
+      - title: 'HaruDiary'
         url: /categories/haru-diary/
-      - title: '훔'
+      - title: 'Categories22'
         url: /categories/categories2/
       - title: 'Categories3'
         url: /categories/categories3/
